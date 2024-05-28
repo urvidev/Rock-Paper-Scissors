@@ -1,2 +1,1 @@
-# rock-paper-S
-rock paper S
+# rock-paper-scissor

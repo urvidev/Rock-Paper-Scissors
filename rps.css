@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:black;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    color: rgb(181, 176, 176);
+    row-gap: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+.box h1{
+    text-shadow:  -1px 1px 0 #ffffff, 
+                          1px 1px 0#ffffff, 
+                         1px -1px 0#ffffff, 
+                        -1px -1px 0#ffffff;
+}
+.button a button {
+  background-color:black; /* Green */
+  border: none;
+  color:red;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  cursor: pointer;
+}
+.button a button h1{
+    background-color: black;
+    text-shadow:  -1px 1px 0 #ffffff, 
+                          1px 1px 0#ffffff, 
+                         1px -1px 0#ffffff, 
+                    -1px -1px 0#ffffff;
+}
+.button{
+    text-align: center;
+}
